@@ -1,5 +1,5 @@
 # PlatePilot
-It is a calorie counter app which is designed and implemented using Django.
+It is a calorie counter app which is implemented using Django.
 Tech stack used is HTML, CSS, MySQL and JS.
 It gives detailed breakdown of nutrients for each food item.
 It also recommends exercise (jogging, yoga, gym & brisk walk)  durations for burning consumed calories.
